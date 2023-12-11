@@ -1,0 +1,24 @@
+#main{
+    height: 100vh;
+}
+#copybtn:hover{
+    color: white;
+}
+
+#content{
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.c-icon{
+    font-size: 22px;
+    color: #00000050;
+}
+.c-icon i{
+    cursor: pointer;
+}
+
+.c-icon:active{
+    color: red;
+}
